@@ -1,7 +1,11 @@
-# crackinfcoding_php
+# crackingcoding_php
 
 Cracking the the Coding Interview book exercises in PHP
 
+deleteMiddleNode.php
+    Implement an algorithm to delete a node in the middle of a singly
+    linked list, given access only to that node.
+ 
 isPermutation.php:
     Given two strings, write a method to decide if one is a
     permutation of the other
